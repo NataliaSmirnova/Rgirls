@@ -1,2 +1,2 @@
 # Rgirls
-R Girls Meetup
+R Girls Meetup (Data Science)
